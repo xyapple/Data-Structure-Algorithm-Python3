@@ -27,6 +27,3 @@ emp_1 = Employee('John', 'Duo')
 print(emp_1.first)
 print(emp_1.email)
 print(emp_1.fullname)
-
-for u in range(10):
-    print(u)
